@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Garden Lite\n"
+"POT-Creation-Date: 2021-06-18 15:04+0530\n"
+"PO-Revision-Date: 2021-06-18 15:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: Alexathemes Team <support@alexathemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+#: 404.php:15
+msgid "<strong>404</strong> Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Looks like you have taken a wrong turn.....<br />Do Not worry... it happens "
+"to the best of us."
+msgstr ""
+
+#: content-page.php:19
+#: content-single.php:29
+#: content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+#: content-single.php:41
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:34
+#: content.php:13
+msgid ", "
+msgstr ""
+
+#: content-single.php:35
+msgid " | Tags: "
+msgstr ""
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:15
+msgid "Y"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:45
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:46
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Select color from here."
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Select background color for Top header / Header Information."
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Select background color for header."
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Select background color for footer."
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Header Information"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Add header information here."
+msgstr ""
+
+#: inc/customizer.php:111
+#: inc/customizer.php:131
+msgid "Add text here."
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Add Phone Number here."
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Add Working Hours here."
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Add facebook link here."
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Add twitter link here."
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Add instagram link here."
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Add linkedin link here."
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Add google plus link here."
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Check this to hide Header Information."
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Setting Up Slider"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid ""
+"Recommended image size (1600x800). Slider will work only when you select the "
+"static front page."
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Add slider sub title here"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Add slider link button text."
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Check this to hide slider."
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Setting Up First Section"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid ""
+"Select page for setting up first section. This section will be displayed "
+"only when you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:317
+#: inc/customizer.php:383
+msgid "Add sub title here"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Select page for this section"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Add read more button text."
+msgstr ""
+
+#: inc/customizer.php:356
+#: inc/customizer.php:422
+msgid "Check this to hide section."
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Setting Up Second Section"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid ""
+"Select pages for setting up second section. This section will be displayed "
+"only when you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:397
+msgid "Select page for 1st column"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Select page for 2nd column"
+msgstr ""
+
+#: template-parts/main-slider.php:47
+#: template-parts/main-slider.php:49
+msgid "Read More"
+msgstr ""
