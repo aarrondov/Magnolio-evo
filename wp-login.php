@@ -6,6 +6,7 @@
  * and other user handling.
  *
  * @package WordPress
+ * @author Conflict Juan Alberto
  */
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
